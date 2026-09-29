@@ -162,15 +162,16 @@ and AI/ML technologies.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SaiRamSaladi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Sai Ram's GitHub Stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SaiRamSaladi&show_icons=true&hide_border=true"
+    alt="GitHub Statistics"
   />
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRamSaladi&layout=compact&langs_count=8&hide_border=true"
-    alt="Sai Ram's Top Languages"
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRamSaladi&layout=compact&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
@@ -179,7 +180,10 @@ and AI/ML technologies.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiRamSaladi&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=SaiRamSaladi&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
