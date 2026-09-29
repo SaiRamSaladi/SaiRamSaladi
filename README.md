@@ -162,17 +162,11 @@ and AI/ML technologies.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SaiRamSaladi&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRamSaladi&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
